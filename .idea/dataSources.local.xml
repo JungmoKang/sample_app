@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="eca7ec04-948e-48c0-8ee7-d7058bd58c61">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>kang</user-name>
+    </data-source>
+    <data-source name="Rails sample_app: development" uuid="751007ab-97b3-4613-b563-ac9cf12a3e11">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails sample_app: test" uuid="22a11e87-0316-4d29-8400-f64d5ff2539b">
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
